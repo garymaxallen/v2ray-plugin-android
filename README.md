@@ -5,6 +5,7 @@ fail to detect internet connection: unable to resolve host cp.cloudflare.com no 
 If you met this error with v2ray-plugin-android, I wish this will help you.
 
 My environment is.
+
 Smartphone: Mi8 Lite
 
 Shadowsocks Android version: 5.2.5 (at this moment, the lastest version)
